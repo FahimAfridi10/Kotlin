@@ -9,6 +9,9 @@ fun main() {
         else -> println("The time is $alerm")
     }
 
+    //qwerty
+
+
    /*/Case 2
     val mark = 7
     val text = when(mark){
